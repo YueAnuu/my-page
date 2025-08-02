@@ -36,7 +36,7 @@ const Index = () => {
             
             <div className="space-y-4">
               <h1 className="text-2xl font-bold text-foreground">
-                Hi. I'm <strong>Anil</strong>
+                About <strong>Me..</strong>
               </h1>
               
               <p className="text-foreground/70">
